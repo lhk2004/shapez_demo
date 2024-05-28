@@ -1,0 +1,11 @@
+release/cutter.o
+release/device.o
+release/digger.o
+release/main.o
+release/mainscene.o
+release/moving_mine.o
+release/rotator.o
+release/track.o
+release/trash_can.o
+release/qrc_res.o
+release/moc_mainscene.o

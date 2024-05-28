@@ -1,0 +1,11 @@
+debug/cutter.o
+debug/device.o
+debug/digger.o
+debug/main.o
+debug/mainscene.o
+debug/moving_mine.o
+debug/rotator.o
+debug/track.o
+debug/trash_can.o
+debug/qrc_res.o
+debug/moc_mainscene.o
